@@ -8,4 +8,4 @@ The whole thing is not the most well programmed thing but it works for now and i
 
 Currently only photos get reposted well, everything else is only displayed as link, maybe I will change that in the future. 
 
-For questions you can reach out to me @niko@mastodon.bwnet.it or @dieserNiko@twitter.com
+For questions you can reach out to me [@niko@mastodon.bwnet.it](https://niko.yt/masto) or [@dieserNiko@twitter.com](https://niko.yt/twitter)
